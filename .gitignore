@@ -76,3 +76,9 @@ crashlytics-build.properties
 Temp/
 Library/
 WadeRetro/Logs/shadercompiler-UnityShaderCompiler.exe-0.log
+/WadeRetro
+/WadeRetro/Assets
+WadeRetro/Assets/donut.blend.meta
+
+# Shader logs
+*.shaderlog
